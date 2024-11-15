@@ -1,10 +1,5 @@
 # Projeto DSList - Intensivão Java Spring
 
-
-Envie uma mensagem pra gente no email que chegou pra você no ato da sua inscrição.
-
-
-
 ## Modelo de domínio DSList
 
 ![Modelo de domínio DSList](https://raw.githubusercontent.com/devsuperior/java-spring-dslist/main/resources/dslist-model.png)
